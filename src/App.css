@@ -1,4 +1,35 @@
-.App {
+
+.header{
+  color:aqua;
+    display: flex;
+    justify-content: space-between;
+      align-items: center;
+      justify-content: center;
+
+      position: sticky;
+      height: 60px;
+      background-color: #b2b2b2;
+      z-index: 10;
+}
+li{
+  list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +66,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
