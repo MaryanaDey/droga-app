@@ -1,0 +1,46 @@
+[
+  {
+    "id": "id-1",
+    "url": "https://assets.dots.live/misteram-public/01879677-f8b5-72a9-b350-0aaa9a328ed2-826x0.png",
+    "title": "Блинчики с вишней",
+    "price": 350,
+    "author": {
+      "tag": "500g",
+      "url": "https://pixabay.com/users/ractapopulous-24766/"
+    },
+    "quantity": 10
+  },
+  {
+    "id": "id-2",
+    "url": "https://assets.dots.live/misteram-public/01879677-f8b5-72a9-b350-0aaa9a328ed2-826x0.png",
+    "title": "Мини-блины с сыром",
+    "price": 400,
+    "author": {
+      "tag": "500g",
+      "url": "https://pixabay.com/users/ractapopulous-24766/"
+    },
+    "quantity": 15
+  },
+  {
+    "id": "id-3",
+    "url": "https://assets.dots.live/misteram-public/01879677-f8b5-72a9-b350-0aaa9a328ed2-826x0.png",
+    "title": "Мини-блины с сыром",
+    "price": 600,
+    "author": {
+      "tag": "500g",
+      "url": "https://pixabay.com/users/ractapopulous-24766/"
+    },
+    "quantity": 5
+  },
+   {
+    "id": "id-4",
+    "url": "https://assets.dots.live/misteram-public/aa68862f1c953ed736fcc3d605297a1c.png",
+    "title": "Мини-блины с сыром",
+    "price": 600,
+    "author": {
+      "tag": "500g",
+      "url": "https://pixabay.com/users/ractapopulous-24766/"
+    },
+    "quantity": 5
+  }
+]
