@@ -9,7 +9,7 @@ function SectionCard(  ) {
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
-                              <h2 className="productaction">Технокряк это современная площадка распространения коронавируса. 
+                              <h2 className="product-action">Технокряк это современная площадка распространения коронавируса. 
                                 Компании используют эту платформу для цифрового шпионажа и атак на защищённые 
                                 сервера конкурентов.</h2>
                           </div>
@@ -26,7 +26,7 @@ function SectionCard(  ) {
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
-                              <h2 className="productaction">Технокряк это современная площадка распространения коронавируса. 
+                              <h2 className="product-action">Технокряк это современная площадка распространения коронавируса. 
                                 Компании используют эту платформу для цифрового шпионажа и атак на защищённые 
                                 сервера конкурентов.</h2>
                           </div>
@@ -43,7 +43,7 @@ function SectionCard(  ) {
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
-                              <h2 className="productaction">Технокряк это современная площадка распространения коронавируса. 
+                              <h2 className="product-action">Технокряк это современная площадка распространения коронавируса. 
                                 Компании используют эту платформу для цифрового шпионажа и атак на защищённые 
                                 сервера конкурентов.</h2>
                           </div>
@@ -60,7 +60,7 @@ function SectionCard(  ) {
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
-                              <h2 className="productaction">Технокряк это современная площадка распространения коронавируса. 
+                              <h2 className="product-action">Технокряк это современная площадка распространения коронавируса. 
                                 Компании используют эту платформу для цифрового шпионажа и атак на защищённые 
                                 сервера конкурентов.</h2>
                           </div>
@@ -77,7 +77,7 @@ function SectionCard(  ) {
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
-                              <h2 className="productaction">Технокряк это современная площадка распространения коронавируса. 
+                              <h2 className="product-action">Технокряк это современная площадка распространения коронавируса. 
                                 Компании используют эту платформу для цифрового шпионажа и атак на защищённые 
                                 сервера конкурентов.</h2>
                           </div>
@@ -90,7 +90,7 @@ function SectionCard(  ) {
                   </a>
               </li>
 
-                <li className="card-set__item">
+               <li className="card-set__item">
                   <a href="#" className="card-set__info">
                       <div className="product-meta">
                           <div className="product-overlay">
