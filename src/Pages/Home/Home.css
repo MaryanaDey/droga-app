@@ -1,0 +1,98 @@
+.container {
+min-height: 100vh;
+background-image: url('../../assets/images/Rectangle\ 48.jpg');
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.banner {
+    color: #fff;
+font-size: 36px;
+font-weight: bold;
+text-align: center;
+margin-bottom: 40px;
+}
+
+.categories {
+margin-bottom: 40px;
+}
+
+.categories h2 {
+font-size: 24px;
+margin-bottom: 20px;
+color: #fff;
+}
+
+.categories ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+.categories li {
+margin-bottom: 10px;
+}
+
+.categories a {
+color: #fff;
+text-decoration: none;
+font-size: 18px;
+transition: color 0.2s;
+}
+
+.categories a:hover {
+color: #f00;
+}
+
+.buy-button {
+display: block;
+width: 200px;
+margin: 0 auto;
+background-color: #f00;
+color: #fff;
+text-align: center;
+text-decoration: none;
+padding: 10px 20px;
+font-size: 18px;
+border-radius: 5px;
+transition: background-color 0.2s;
+}
+
+.buy-button:hover {
+background-color: #d00;
+}
+.product-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.product-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.product-card {
+    flex-basis: calc(33.33% - 10px);
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+@media only screen and (max-width: 768px) {
+    .product-row {
+        flex-wrap: wrap;
+    }
+
+    .product-card {
+        flex-basis: calc(50% - 10px);
+        margin-bottom: 20px;
+    }
+}
