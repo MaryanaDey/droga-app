@@ -49,6 +49,19 @@ transition: color 0.2s;
 color: #f00;
 }
 
+
+.categories-list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+}
+
+.categories-list li {
+    margin-right: 1rem;
+}
+
+
 .buy-button {
 display: block;
 width: 200px;
@@ -84,6 +97,8 @@ background-color: #d00;
     background-color: #f2f2f2;
     border-radius: 5px;
     box-shadow: 0px 0px 5px #ccc;
+
+    width: calc(33.33% - 20px);
 }
 
 @media only screen and (max-width: 768px) {
